@@ -1,0 +1,46 @@
+{
+    "id": "monster-catalog",
+    "title": "Monster Catalog",
+    "version": "11.0.3",
+    "authors": [
+        {
+            "name": "Zhell",
+            "url": "https://github.com/krbz999",
+            "discord": "zhell9201",
+            "ko-fi": "https://ko-fi.com/zhell",
+            "patreon": "https://www.patreon.com/zhell"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "3.0.0"
+                }
+            }
+        ]
+    },
+    "compatibility": {
+        "minimum": "11",
+        "maximum": "12",
+        "verified": "12"
+    },
+    "esmodules": [
+        "./setup.mjs"
+    ],
+    "styles": [
+        "./styles/styles.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "flags": {
+        "hotReload": false
+    }
+}
