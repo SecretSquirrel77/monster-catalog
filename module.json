@@ -23,8 +23,8 @@
         ]
     },
   "url": "",
-  "manifest": "https://github.com/SecretSquirrel77/monster-catalog/main/module.json",
-  "download": "https://github.com/SecretSquirrel77/monster-catalog/main/monster-catalog.zip",
+  "manifest": "https://raw.githubusercontent.com/SecretSquirrel77/monster-catalog/main/module.json",
+  "download": "https://raw.githubusercontent.com/SecretSquirrel77/monster-catalog/main/monster-catalog.zip",
     "compatibility": {
         "minimum": "11",
         "maximum": "12",
