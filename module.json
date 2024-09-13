@@ -23,7 +23,7 @@
         ]
     },
   "url": "",
-  "manifest": "https://raw.githubusercontent.com/iotech-fvtt/flexui/Foundry-V10/module.json",
+  "manifest": "https://githubusercontent.com/SecretSquirrel77/monster-catalog/main/module.json",
   "download": "https://github.com/iotech-fvtt/flexui/releases/download/0.3.0/flexui.zip",
     "compatibility": {
         "minimum": "11",
